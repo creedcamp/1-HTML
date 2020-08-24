@@ -1,0 +1,40 @@
+body {
+  background-color: red;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+main {
+  margin: 0px;
+  border-style: ridge;
+  border-color: green;
+}
+
+.center {
+  display: flex;
+  border-style: solid;
+  padding: 20px;
+}
+
+p {
+  margin: 100px 100px;
+}
+
+.cent {
+  border-style: solid;
+  text-weight: 5px;
+  padding: 10px;
+}
+
+.foot {
+  flex: direction;
+  text-align: center;
+  margin: 0px, auto;
+  padding: 100px 200px;
+}
